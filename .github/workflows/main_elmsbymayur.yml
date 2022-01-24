@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'elmsbymayur'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_794CD09666E9431F8D1761C86190BFE9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DA0073D8FE9F41CB980D1B1F8E3C963E }}
           package: .
